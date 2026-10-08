@@ -10,3 +10,4 @@
 -\
 - Atajos de teclado: mira ATAJOS.md
 - \git revert HEAD`
+- \git fetch`
