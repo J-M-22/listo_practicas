@@ -8,3 +8,4 @@
 - `git commit -am "mensaje"`: add y commit de lo ya seguido
 -\
 - Atajos de teclado: mira ATAJOS.md
+- git push --force: la mejor forma de subir cambios
